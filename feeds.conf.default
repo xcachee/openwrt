@@ -13,4 +13,4 @@ src-git jerryk https://github.com/jerrykuku/openwrt-package.git
 #src-git garypang13 https://github.com/garypang13/openwrt-bypass.git
 src-git 4IceG https://github.com/4IceG/luci-app-3ginfo.git
 src-git ophub https://github.com/ophub/luci-app-amlogic
-src-git dira91 https://github.com/dira91/badvpn_corkscrew.git
+src-git xcachee https://github.com/xcachee/bad.git
